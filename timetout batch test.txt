@@ -1,0 +1,7 @@
+@echo off
+title .exe
+TIMEOUT /T 10
+start chrome "https://foxsbm.webex.com/foxsbm/m.php?AT=RM&MK=312231282&FN=Timi&LN=Oduntan&EM=tug19581@temple.edu"
+start chrome "https://foxsbm.webex.com/foxsbm/m.php?AT=RM&MK=312231282&FN=jason&LN=leeser&EM=hfksildhj@temple.edu"
+start chrome "https://foxsbm.webex.com/foxsbm/m.php?AT=RM&MK=312231282&FN=Chris&LN=Miano&EM=cmiano@gmail.com"
+pause
